@@ -1,0 +1,12 @@
+.home__card {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  width: 100%;
+}
+
+.home__wrapper {
+  display: flex;
+  padding: 20px 0;
+}

@@ -1,0 +1,14 @@
+.error__button {
+  color: #6d1935;
+  padding: 10px;
+  background: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.error__wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
